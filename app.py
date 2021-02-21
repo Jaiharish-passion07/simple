@@ -1,6 +1,7 @@
 import streamlit as st
 import cv2 as cv2
 from PIL import Image
+import numpy 
 from tempfile import NamedTemporaryFile
 st.title("Basics OpenCV operation")
 #uploading Image file
